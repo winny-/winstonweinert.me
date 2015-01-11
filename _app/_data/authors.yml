@@ -7,10 +7,10 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  web:          http://sparanoid.com/
-  twitter:      tunghsiao
+  name:         Winston Weinert
+  email:        winston@ml1.net
+  web:          http://winstonweinert.me/
+  twitter:      ___winston
 
 tester:
   name:         Tester
